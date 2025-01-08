@@ -1,4 +1,4 @@
-# UCP - Sistema de Controle de Contas em PHP para SA-MP
+# UCP PHP para SA-MP
 
   Este repositório contém um sistema de User Control Panel (UCP) 
   desenvolvido em PHP para o servidor SA-MP, permitindo o gerenciamento completo das contas de usuários no jogo.
